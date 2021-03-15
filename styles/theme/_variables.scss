@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+
+// layout
+
+$mobile : 375px;
+$desktop : 1440px;
+
+// pry colors
+
+$vd_magenta : hsl(300, 43%, 22%);
+$sf_pink : hsl(333, 80%, 67%);
+
+// neutral colors
+
+$dk_magenta : hsl(303, 10%, 53);
+$lg_magenta : hsl(300, 24%, 96%);
+$white : hsl(0, 0%, 100%);
+
+// font
+
+$font-size : 15px;
+$font-family : 'Spartan', sans-serif;
+$sm-font : 400;
+$md-font : 500;
+$lg-font : 700;
