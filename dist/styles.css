@@ -18,7 +18,6 @@
           flex-direction: column;
   font-size: 0.9375rem;
   padding: 0.9375rem;
-  border: 1px solid orangered;
 }
 
 .center_text {
@@ -96,7 +95,6 @@
 
 .reviews {
   margin-top: 1rem;
-  border: 1px solid orangered;
 }
 
 .reviews .review {
@@ -107,7 +105,6 @@
   background-color: #502050;
   line-height: 1.5;
   margin-top: 1rem;
-  border: 1px solid orangered;
 }
 
 .reviews .info {
